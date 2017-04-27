@@ -1,5 +1,5 @@
-# Prusa i3 MK2b
-> Prusa i3 MK2b Under production...
+# Prusa i3D (Renamed from MK2b not to cause confusion with MK2)
+> Prusa i3D Under production...
 
 Based on the printer of Josef Prusa, it is intended with this model, a design of good quality at a low commercial value and parts easy to find in any store or online. 
 
